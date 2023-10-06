@@ -1,3 +1,4 @@
-#Discord Bot Guide
+# Discord Bot Guide
 
-Please Excuse any the informal writing, slang, typos and such since its meant to be an informal guide.
+Please excuse the colloquial writing including any slang, typos etc.
+This was meant to be an informal guide.
